@@ -1,0 +1,2 @@
+https://github.com/antor940/BOT-PREFIX.git
+https://discord.gg/EmH6k3ZBdK
